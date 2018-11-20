@@ -1,1 +1,1 @@
-# DJango Image Responsive Field
+# Django Image Responsive Field
